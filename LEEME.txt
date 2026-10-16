@@ -1,0 +1,8 @@
+FOOTBALL DYNASTY
+================
+1. Extrae toda la carpeta del ZIP.
+2. Haz doble clic en  index.html  (se abre en tu navegador).
+3. Pulsa "Jugar".
+
+No necesita internet ni servidor. Mantén las carpetas "game" y "css" junto a index.html.
+Para publicarlo online, sube toda la carpeta a Netlify, GitHub Pages o cualquier hosting.
